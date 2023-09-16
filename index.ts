@@ -1,4 +1,4 @@
-import {VCService, DIDService} from "../vcnft/index.d" // TODO: replace with library
+import {VCService, DIDService} from "vcnft/build"
 
 import { DIDUniversalResolver } from '@extrimian/did-resolver';
 import {
